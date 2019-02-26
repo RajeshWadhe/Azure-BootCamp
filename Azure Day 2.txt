@@ -1,0 +1,151 @@
+
+Azure Day 2
+
+--------------------------------------------------------------------------------------------------------------
+IP :  104.211.157.159
+
+Number : 20
+test20
+Saama@123
+
+--------------------------------------------------------------------------------------------------------------
+Managing resources:
+
+Certification ---> AZ100 and AZ101
+
+developer AZ-203  
+
+
+Raspberry Pi :
+Azure supports IoT 
+
+
+Old portal --> Windows Azure   
+New portal --> Windows  (portal.azure.com)
+
+Old CLI    		-->  Azure CLI (same like RUN window)
+Powershell 		-->  
+Visual Studio   -->  ARM Templates(Azure Resource Templates)    
+
+
+VSTS (Visual Studio Team Services)
+ex. develop web application
+     now push new web to server ---> pull data to down and push new to server.  and do testing
+	 drawback --> down time 
+	 
+Test --> check with workloads
+
+new method:
+VSTS --> already script is on the Azure cloud.
+      can switch between applications 
+
+
+Reddis cache --> RedBus, Flipkart uses this
+
+Azure DevOps -->
+have Azure Repo to store scripts
+
+
+--------------------------------------------------------------------------------------------------------------
+
+Resource Group:
+
+RG : just like folder --> it is not costed 
+
+steps recorded by Minal
+
+--------------------------------------------------------------------------------------------------------------
+
+Powershell 
+Powershell ISE
+
+Go to Local Server  ---> diskmgmt.msc
+IE Server Manager --> turn it off
+
+Download powershell for Visual Studio 
+
+
+windows powershell
+New :  
+
+Login-AzureRmAccout
+
+Get-AzureRmSubscription
+
+Get-AzureRmResourceGroup
+
+-------------------------------
+
+ARM script:
+To create VM on shell
+
+New-AzureResourceGroup -Name saamaday2-rg -Location southeastasia
+
+Get-AzureRmResourceGroup
+
+Remove-AzureResourceGroup -Name saamaday2-rg -Location southeastasia
+
+
+https://azure.microsoft.com/en-us/downloads/
+
+Download powershell from here 
+
+
+--------------------------------------------------------------------------------------------------------------
+App Services:   Web Apps, Mobile Apps, Logic Apps, API
+
+PaaS :   In Azure it is App Services
+ex. NDTV 
+
+Mobile apps --> push notifications
+
+Xmaren --> cross platform tool
+
+Logic Apps --> #taganything
+
+
+create resource --> web apps
+
+name : saama
+resource group: saamawebapp-rg
+OS: windows
+publish: code
+
+
+App service plan
+saama app 
+location
+
+3 panels:   dev/test         production 			isolated
+
+
+disale 
+
+and create web apps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
