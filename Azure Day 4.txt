@@ -1,0 +1,86 @@
+
+Azure Day 4
+
+-------------------------------------------------------------------------------------------------------------
+
+
+bit.do/infypowershell
+
+------------------------------------------------------------------------------------------------------------
+
+Load balancer:
+
+-Layer 4 and 7
+- LB work on Layer 4 --> within data center region
+- Standard LB --> work on availability zone
+- Health Probes --> checks and use LB
+- Availability Sets --> 100 instances  --> managed by Backend Pool
+- public LB --> for public network/IP
+
+
+
+===========================================================================================================
+
+Launch new VM :
+
+lbVM1
+lbVM2
+
+Now create load balancer --> dynamic public IP
+Load Balancer --> to go backend pool
+
+-----------------------------
+
+NAT Rule 3441 ----> port numnbert
+
+TCP custom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

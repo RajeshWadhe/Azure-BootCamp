@@ -1,0 +1,96 @@
+
+
+Azure Day 3
+
+--------------------------------------------------------------------------------------------------
+
+Storage
+blocks, files, queues, store
+
+blob: 
+1) blob-blog --> to push any unstructured application ex. any Gaana application
+	inside blob --> there is container ex. hin, tamil , english,
+2) page-blob -> ex machine is southeast asia --> vht backup image --> to store it in another region.
+   to take backup of virtual machine
+3) append-blob: 
+
+
+files ---:>
+tables ---> 
+Queues ---> to push data/notification. --> 
+
+Security:
+SaaS tokens.
+
+--------------------------------------------------------------------------------------------------
+
+Storage Explore
+just like S3 bucket.
+
+power shell --> use to login with storage account.
+
+storage will be of type:
+1) general purpose
+2) blob only
+
+
+cool tier 
+hot tier
+
+-------------------------------------------------------------------------------------------------
+
+Geo replication:
+
+-------------------------------------------------------------------------------------------------
+
+Queues
+
+priority : -->?   FIFO
+0 1 2 3 4 5
+
+for peak messages 
+one way communication --> 
+
+NuGet Packege ---> add it
+
+-------------------------------------------------------------------------------------------------
+
+-- V Net  ---> VPC 
+-- Size   ---> 
+-- Disk   ---> inside there will be partitions
+-- NSG    --->  
+-- auto shutdown  
+
+Availability sets
+ update domain --> planned maintenance
+ fault domain  --> unplanned
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
