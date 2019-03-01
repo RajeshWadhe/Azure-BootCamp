@@ -1,0 +1,67 @@
+
+Azure Day 5
+
+-----------------------------------------------------------------------------------------
+Traffic Manager:
+-----------------------------------------------------------------------------------------
+Traffic Manager --> works across different regions
+
+Routing Algorithm --> performance algorithm
+Priority --> 2 Data centers --> 1st priority southeastasia (data center) --> you pay for both DC's
+performance --> 
+Weight --> go up with load balancer 
+geographic 
+Multi-Valued 
+Subnet routing 
+
+Load balancer -> helath probe-->
+
+---------------------------------------------
+
+endpoint
+
+traffic manager --> add it 
+
+---------------------------------------------------------------------------------------------------
+
+Alerts / Migration:
+
+
+AD: --->
+
+- groups of tenants
+- Domain forest --> manage each and every groups and provision 
+- MFA , SaaS Application
+- sharing subscription
+
+
+Add role in AD --> twiytter account
+
+------------------------------------------------------------------------------------------------
+
+
+Logic Apps --> automation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
