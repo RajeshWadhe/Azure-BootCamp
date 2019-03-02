@@ -1,0 +1,65 @@
+
+Azure Day 6 
+
+-------------------------------------------------------------------------------
+
+
+AD Connect
+
+------------------------------------------------------------------------------
+
+Azure Site Recovery:(ASR) :--->
+
+
+Azure backup
+MARS 
+DMS (DB Migration)
+Azure Migration --> migrate one region VM to another region.
+
+
+------------------------------------------------------------------------------
+
+DMS : --->
+
+
+- white listing IP addresses
+SQL database
+
+server name: azureserver-saame1
+server admin login: azureadmin
+pass:     Saama@123
+
+
+---
+
+sqlserver1
+Saama@123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
